@@ -1,0 +1,81 @@
+.top-wrapper{
+    background-image:url(https://s4.aconvert.com/convert/p3r68-cdx67/aa5a1-iat7v.jpg) ;
+    text-align:left;
+    width:100%;
+    padding:180px;
+    background-size: cover;
+}
+.container{
+    width:100%;
+    margin:0 auto;
+}
+.title h1{
+color:white;
+letter-spacing: 5px;
+font-size:30px;
+opacity: 0.7;
+}
+.explain p{
+    font-size: 15px;
+}
+.btn{
+    display: inline-block;
+    padding:20px;
+    color:white;
+    opacity: 0.7;
+    border-radius: 4px;
+}
+.btn:hover{
+    opacity: 1;
+}
+.twitter{
+    background-color: skyblue;
+    margin-right:10px;
+}
+.facebook{
+    background-color: blue;
+}
+.header{
+    height: 110px;
+    background-color: cadetblue;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+
+}
+.header-left{
+    float: left;
+}
+.header-logo{
+    width:124px;
+}
+.header-right{
+    float:right;
+
+}
+.header-right a{
+   display: inline-block;
+   background-color: azure; 
+   opacity: 0.7;
+   line-height: 65px;
+   color:black;
+}
+.header-right a:hover{
+    opacity: 1;
+    transition: all 0.5s;
+}
+.narumi-wrapper{
+    text-align: center;
+    height: 550px;
+    background-color: darkgray;
+    width:1300px;
+}
+.narumi{
+    width:20%;
+    float: left;
+    margin-right:60px;
+}
+.text{
+    display: inline-block;
+    
+}
